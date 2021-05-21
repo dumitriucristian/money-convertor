@@ -1,4 +1,4 @@
-# money_convertor
+# Money convertor with random image
 
 A new Flutter application.
 
